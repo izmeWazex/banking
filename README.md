@@ -1,2 +1,3 @@
 # banking
-a java 1st year terminal project
+a java 1st year banking system project
+
